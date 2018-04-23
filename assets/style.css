@@ -1,0 +1,23 @@
+.atas{
+    padding: 5px;
+    height: 260px;
+    background-color: #999999;
+}
+.samping{
+    padding: 5px;
+    float: right;
+    height: 500px;
+    background-color: #cc0000;      
+  
+}
+/*.tengah{
+    padding: 5px;
+    height: 500px;
+   
+}*/
+
+.bawah{
+    height: 100px;
+    background-color: #000000;
+  
+}
